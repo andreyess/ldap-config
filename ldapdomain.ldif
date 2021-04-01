@@ -16,7 +16,7 @@ olcRootDN: cn=Manager,dc=devopsldab,dc=com
 dn: olcDatabase={2}hdb,cn=config
 changetype: modify
 add: olcRootPW
-olcRootPW: {SSHA}d/thexcQUuSfe3rx3gRaEhHpNJ52N8D3
+olcRootPW: PASSWORD
 
 dn: olcDatabase={2}hdb,cn=config
 changetype: modify
